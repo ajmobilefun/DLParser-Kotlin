@@ -3,7 +3,6 @@
 > DLParser is a library for parsing barcode data from AAMVA compliant driver licenses.
 
 [![Kotlin Version][kotlin-image]][kotlin-url]
-[![License][license-image]][license-url]
 [![Platform][platform-image]][platform-url]
 
 DLParser aims to decode barcode data from AAMVA compliant driver licenses. The parser
@@ -43,17 +42,3 @@ Scan driver license barcodes by using the example app and view output through th
 ## Contribute
 
 Open an issue or make a pull request.
-
-## Meta
-Andrew Johnson – ajohnson388@gmail.com
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[https://github.com/ajohnson388/](https://github.com/ajohnson388/)
-
-[kotlin-image]:https://img.shields.io/badge/kotlin-1.2-orange.svg
-[kotlin-url]: https://kotlinlang.org/
-[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
-[license-url]: LICENSE
-[platform-image]:https://img.shields.io/badge/platform-Android-green.svg?style=flat
-[platform-url]:https://developer.android.com/
