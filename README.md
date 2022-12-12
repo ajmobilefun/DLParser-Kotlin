@@ -2,9 +2,6 @@
 
 > DLParser is a library for parsing barcode data from AAMVA compliant driver licenses.
 
-[![Kotlin Version][kotlin-image]][kotlin-url]
-[![Platform][platform-image]][platform-url]
-
 DLParser aims to decode barcode data from AAMVA compliant driver licenses. The parser
 supports all AAMVA versions and AAMVA defined fields.
 
